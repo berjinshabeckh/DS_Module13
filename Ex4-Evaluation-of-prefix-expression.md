@@ -24,8 +24,8 @@ To write a C function to evaluate the given prefix expression using stack and pr
 ```
 /*
 Program to evaluate the given prefix expression
-Developed by:  Ashwath M
-RegisterNumber: 212223230023
+Developed by:  Berjin Shabeck
+RegisterNumber: 212222240018
 
 #include<stdio.h> 
 #include<string.h> 
