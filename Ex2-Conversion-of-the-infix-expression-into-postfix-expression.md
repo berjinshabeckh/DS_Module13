@@ -1,27 +1,17 @@
-# Ex2 Conversion of the infix expression into postfix expression
-## DATE:
-## AIM:
-To write a C program to convert the infix expression into postfix form using stack by following the operator precedence and associative rule.
 
-## Algorithm
-1. 
-2. 
-3. 
-4.  
-5.   
-
-## Program:
-```
-/*
-Program to convert the infix expression into postfix expression
-Developed by: 
-RegisterNumber:  
-*/
-```
-
-## Output:
-
-
-
-## Result:
-Thus, the C program to convert the infix expression into postfix form using stack by following the operator precedence and associative rule is implemented successfully.
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+  <head>
+    <title>503 first byte timeout</title>
+  </head>
+  <body>
+    <h1>Error 503 first byte timeout</h1>
+    <p>first byte timeout</p>
+    <h3>Error 54113</h3>
+    <p>Details: cache-maa10227-MAA 1747115581 3324321450</p>
+    <hr>
+    <p>Varnish cache server</p>
+  </body>
+</html>
